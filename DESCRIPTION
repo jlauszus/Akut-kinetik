@@ -1,7 +1,11 @@
 Package: Akut kinetik
 Type: Project
+Title: Akut kinetik
 Version: 0.0.1
+Author: Johanne Sloth Lauszus 
 Imports:
     knitr,
     rmarkdown
 Encoding: UTF-8
+URL: https://github.com/jlauszus/Akut-kinetik
+BugReports: https://github.com/jlauszus/Akut-kinetik/issues
